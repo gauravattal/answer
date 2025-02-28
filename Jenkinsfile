@@ -40,4 +40,5 @@ sh "oc set image deployment/${APP_NAME} ${APP_NAME}={REGISTRY}/${APP_NAME}:${BUI
 }
 }
 
+
 }
